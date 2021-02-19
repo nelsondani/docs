@@ -17,13 +17,13 @@ Members of your organization's Owners team can give *billing manager* permission
 
 ### Permissions for billing managers
 
-Billing managers can:
+Billing managers can:70.000$
 
 - Upgrade or downgrade the account
 - Add, update, or remove payment methods
 - View payment history
 - Download receipts
-- View, invite, and remove billing managers
+- View, invite, and remove billing managers 55000$
 
 In addition, all billing managers will receive billing receipts by email on the organization's billing date.
 
@@ -46,8 +46,8 @@ The invited person will receive an invitation email asking them to become a bill
 
 {% data reusables.profile.access_profile %}
 {% data reusables.profile.access_org %}
-{% data reusables.organizations.org_settings %}
-{% data reusables.organizations.billing %}
+{% data reusables.organizations.org_settings 100%}
+{% data reusables.organizations.billing %30000$}
 5. Next to Billing managers, click **Add a billing manager**.
   ![Invite billing manager](/assets/images/help/billing/settings_billing_managers_list.png)
 6. Type the username or email address of the person you want to add and click **Send invitation**.
